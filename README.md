@@ -12,7 +12,7 @@ This web application allows users to upload files, generate a download link, and
 + Users can download the files from the unique link generated for each file
 + Users can share the link to allow others to download the files
 
-![Uploading fileshare1.png…]()
+![image_alt](https://github.com/architadu/file-sharing-/blob/main/fileshare1.png?raw=true)
 
 
 
