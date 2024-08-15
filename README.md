@@ -7,6 +7,11 @@ This web application allows users to upload files, generate a download link, and
 + Backend: Node, Express
 + Database: MongoDB
 
+### Features
++ Users can upload files of any format and size
++ Users can download the files from the unique link generated for each file
++ Users can share the link to allow others to download the files
+
 
 
 
