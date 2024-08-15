@@ -1,7 +1,6 @@
-FILE SHARING APPLICATION
+File Sharing Application
 
-FRONTEND:React
+Frontend: React
+Backend: Node.js,Express
+Database: MangoDB
 
-BACKEND: Node,Express
-
-DATABASE:MongoDB
